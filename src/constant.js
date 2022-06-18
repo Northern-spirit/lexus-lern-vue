@@ -1,0 +1,1 @@
+export const API_STARWARS_URL = `https://swapi.dev/api/planets/`;
